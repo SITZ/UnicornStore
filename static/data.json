@@ -1,0 +1,87 @@
+[
+    {
+        "createdAt": "2014-11-03T13:35:07.290Z",
+        "description": "Test Item 1",
+        "location": {
+            "lat": 13.094454,
+            "long": 77.586012
+        },
+        "name": "Test Item 1",
+        "id": "item1",
+        "pics": [
+            "test_pic_1",
+            "test_pic_2"
+        ],
+        "price": 9500,
+        "original_price": 1200,
+        "purchase_year": 2010
+    },
+    {
+        "createdAt": "2014-11-03T15:35:07.290Z",
+        "description": "Test Item 2",
+        "location": {
+            "lat": 12.948193,
+            "long": 77.597187
+        },
+        "name": "Test Item 2",
+        "id": "item2",
+        "pics": [
+            "test_pic_3",
+            "test_pic_4"
+        ],
+        "price": 500,
+        "original_price": 900,
+        "purchase_year": 2014
+    },
+    {
+        "createdAt": "2015-01-03T15:35:07.290Z",
+        "description": "Test Item 3",
+        "location": {
+            "lat": 12.999954,
+            "long": 77.607428
+        },
+        "name": "Test Item 3",
+        "id": "item3",
+        "pics": [
+            "test_pic_5",
+            "test_pic_6"
+        ],
+        "price": 8000,
+        "original_price": 11000,
+        "purchase_year": 2013
+    },
+    {
+        "createdAt": "2015-01-15T15:35:07.290Z",
+        "description": "Test Item 4",
+        "location": {
+            "lat": 12.927923,
+            "long": 77.627108
+        },
+        "name": "Test Item 4",
+        "id": "item4",
+        "pics": [
+            "test_pic_7",
+            "test_pic_8"
+        ],
+        "price": 3000,
+        "original_price": 5600,
+        "purchase_year": 2012
+    },
+    {
+        "createdAt": "2015-01-25T15:35:07.290Z",
+        "description": "Test Item 5",
+        "location": {
+            "lat": 12.903472,
+            "long": 77.631117
+        },
+        "name": "Test Item 5",
+        "id": "item5",
+        "pics": [
+            "test_pic_9",
+            "test_pic_10"
+        ],
+        "price": 75000,
+        "original_price": 100000,
+        "purchase_year": 2015
+    }
+]
